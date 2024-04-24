@@ -14,7 +14,7 @@
 
 #### Geospatial Data Engineer | MSCI | 05.2019 - 05.2023
 - Joined early-stage startup CarbonDelta, contributing to its acquisition and integration into MSCI and aiding in shaping processes and products.
-- As the technical lead for MSCI's asset location database, collaborated closely with a dedicated team to provide high-quality fundamental geospatial data for various products. Technologies included Django, PostGIS, GDAL, Azure DevOps, Kubernetes, Leaflet.
+- As the technical lead for MSCI's asset location database, collaborated closely with a dedicated team to provide high-quality fundamental geospatial data for various products. This [presentation at Google Next 2024](https://youtu.be/olGHj3j_hsY?si=5YkPNT95OMSWysdm) builds on this work. Technologies included Django, PostGIS, GDAL, Azure DevOps, Kubernetes, Leaflet.
 - Initiated and led the introduction of interactive maps on MSCI's client-facing platforms. [Announcement pdf](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWOfc8). Technologies included QGIS, QGIS server, Azure DevOps, Kubernetes, PowerBI, Mapproxy, Mapbox GL JS.
 - Managed up to five junior engineers and supervised the education of an ICT apprentice.
 
