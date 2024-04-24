@@ -1,49 +1,48 @@
 # CV Marc Folini
-6.9.1988, Schlieren ZH, marc.folini@gmx.ch
+6.9.1988 | Schlieren ZH | marc.folini@gmx.ch
 
 ## Experience
 
-#### GIS freelancing | 11.2023 - today
-- I offer services around conceptualization and implementation of geospatial mental models infrastructure, data modeling, and processing.
-- Example project (100 hours): For a Swiss Startup I conceptualized and implemented the infrastructure to periodically source various publicly available datasets, such as GWR and AV, apply non-trivial processing and make the resulting datasets available through an api in a fully automated way. Due to cost constraints and low frequency processing cycles, a fully elastic cloud solution with a focus on open source components and cloud native data formats was conceived and successfully implemented.
+#### GIS Freelancing | 11.2023 - Present
+- Offering services around the conceptualization and implementation of geospatial mental models, infrastructure, data modeling, and processing.
+- Example project (100 hours): For a Swiss startup, conceptualized and implemented infrastructure to periodically source various publicly available datasets, such as GWR and AV. Applied advanced processing and made the resulting datasets available through an API in a fully automated, cost-effective manner using open source components and cloud-native data formats.
 
-#### Sabbatical | 06.2023 - today
-- Following my passion for education, I explored various potential future paths in the education sector. I decided to not further pursue this at the moment.
-- I enjoyed the luxury to deep dive into various GIS and AI related topics and apply them in a range of personal projects. 
-- Pursued personal growth goals, including learning how to swim, travelling, and getting to know the global community of serious game research.
+#### Sabbatical | 06.2023 - Present
+- Explored various potential future paths in the education sector, ultimately deciding to continue my current pursuits.
+- Deepened knowledge in GIS and AI, applying them in several personal projects.
+- Achieved personal growth goals, including learning to swim, traveling, and engaging with the global community of serious game researchers.
 
-#### Geospatial data engineer | MSCI | 05.2019 - 05.2023
-- As an early employee of startup CarbonDelta, I was part of the whole acquisition and integration process into MSCI and helped shaping processes and products.
-- As the technical lead of MSCI's asset location database, I worked closely with a great team to provide high quality fundamental geospatial data for various products. Technologies included Django, PostGIS, GDAL, Azure Devops, Kubernetes, Leaflet.
-- I drove the initiative to bring interactive maps to MSCI's client facing platforms for the first time. [Announcement pdf](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWOfc8). Technologies included QGIS, QGIS server, Azure Devops, Kubernetes, PowerBI, Mapproxy, Mapbox GL JS.
-- As a people manager I guided up to 5 junior engineers and was responsible for the successful education of an ICT apprentice.
+#### Geospatial Data Engineer | MSCI | 05.2019 - 05.2023
+- Joined early-stage startup CarbonDelta, contributing to its acquisition and integration into MSCI and aiding in shaping processes and products.
+- As the technical lead for MSCI's asset location database, collaborated closely with a dedicated team to provide high-quality fundamental geospatial data for various products. Technologies included Django, PostGIS, GDAL, Azure DevOps, Kubernetes, Leaflet.
+- Initiated and led the introduction of interactive maps on MSCI's client-facing platforms. [Announcement pdf](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWOfc8). Technologies included QGIS, QGIS server, Azure DevOps, Kubernetes, PowerBI, Mapproxy, Mapbox GL JS.
+- Managed up to five junior engineers and supervised the education of an ICT apprentice.
 
-#### Research assistant | ETH | 09.2016 - 04.2019
-- As a teaching assistant of the advanced GIS course Spatial Analysis, Modeling and Optimization (SAMO), I enabled students to solve complex real world problems using ArcGIS, QGIS and Matlab.
-- I supported various PhD candidates on the topics of geospatial processing and Python.
+#### Research Assistant | ETH | 09.2016 - 04.2019
+- Served as a teaching assistant for the advanced GIS course "Spatial Analysis, Modeling and Optimization (SAMO)", enabling students to solve complex real-world problems using ArcGIS, QGIS, and Matlab.
+- Assisted various PhD candidates with geospatial processing and Python.
 
 ## Education
 #### CAS GIS | ETH | 09.2021 - 06.2022
-- Acquired a broad foundation of GIS concepts and applications. 
-- Thesis: Leveraging container technology to make it easier to use a variety of open source GIS core technologies, such as PostGIS and Python's geo-ecosystem, in an educational context. [ Github link to thesis.](https://github.com/folinimarc/os_gis_sandbox)
+- Gained a comprehensive understanding of GIS concepts and applications.
+- Thesis: Leveraging container technology to simplify the usage of open source GIS core technologies in educational settings. [GitHub Link to Thesis](https://github.com/folinimarc/os_gis_sandbox)
 
-#### Msc Environmental Sciences | ETH | 2014 - 2016
-- Major in Forest- and Landscapemanagment (Grade 5.48).
-- Focus on vegetation modeling and advanced GIS courses.
-- Master Thesis: An exploratory analysis of LandClim's water model along a climatic gradient (Grade 5.5).
+#### MSc Environmental Sciences | ETH | 2014 - 2016
+- Major: Forest and Landscape Management (Grade: 5.48).
+- Focused on vegetation modeling and advanced GIS courses.
+- Master Thesis: "An Exploratory Analysis of LandClim's Water Model Along a Climatic Gradient" (Grade: 5.5).
 
-#### Other certifications
-- QGIS advanced course | Opengis | 05.2022
-- Azure fundamentals | Microsoft | 02.2022
+#### Other Certifications
+- Advanced QGIS Course | Opengis | 05.2022
+- Azure Fundamentals | Microsoft | 02.2022
 
 ## Current Voluntary Activities
-- **Geobeer** | Together with two colleagues I organize this geo-enthusiast networking event.
-- **Local politics** | I am one of 36 members of the parliament of the city of Schlieren to represent its 20'000 inhabitants.
-- **ETH Alumni Environment** | I am Co-President of the alumni association of environmental scientists and engineers with more than 2'500 members.
-- **WWF camp leader** | I supervise kids aged 7-15 during week long camps and teach them about various fascinating aspects of our environment.
-- **Science Slam** | I support organizers of these entertaining scientific presentation tournaments, coach slammers and pursue the dream of a national network through [scienceslam.ch](https://scienceslam.ch).
+- **Geobeer** | Co-organizer of this networking event for geo-enthusiasts.
+- **Local Politics** | Serving as one of 36 members of the city parliament in Schlieren, representing its 20,000 inhabitants.
+- **ETH Alumni Environment** | Co-President of the alumni association of environmental scientists and engineers, comprising over 2,500 members.
+- **WWF Camp Leader** | Supervise children aged 7-15 during week-long camps, educating them about various environmental topics.
+- **Science Slam** | Assist in organizing these scientific presentation tournaments, coach participants, and work towards establishing a national network. [Science Slam](https://scienceslam.ch).
 
-## Languages and passions
+## Languages and Passions
 - Swiss-German (native), German (fluent), English (fluent), French (moderate).
-- Passions include hiking, playing the guitar, board games and various sport activities.
-
+- Interests include hiking, playing the guitar, board games, and various sports activities.
