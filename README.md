@@ -44,7 +44,7 @@
 - **Local Politics** | Serving as one of 36 members of the city parliament in Schlieren, representing its 20,000 inhabitants.
 - **ETH Alumni Environment** | Co-President of the alumni association of environmental scientists and engineers, comprising over 2,500 members.
 - **WWF Camp Leader** | Supervise children aged 7-15 during week-long camps, educating them about various environmental topics.
-- **Science Slam** | Assist in organizing these scientific presentation tournaments, coach participants, and work towards establishing a national network. [Science Slam](https://scienceslam.ch).
+- **Science Slam** | Assist in organizing these scientific presentation tournaments, coach participants, and work towards establishing a national network. [Website](https://scienceslam.ch).
 
 ## Languages and Passions
 - Swiss-German (native), German (fluent), English (fluent), French (moderate).
