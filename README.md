@@ -2,7 +2,7 @@
 
 6.9.1988 | Schlieren ZH | marc.folini@gmx.ch
 
-<img src="assets/mfprofile.jpeg" alt="Profile picture of Marc Folini" width="200"/>
+<img src="assets/mfprofile.jpg" alt="Profile picture of Marc Folini" width="200"/>
 
 ## Experience
 
