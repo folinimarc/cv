@@ -2,7 +2,11 @@
 
 <img src="assets/mfprofile.jpg" alt="Profile picture of Marc Folini" width="200"/>
 
-6.9.1988 | Schlieren ZH | marc.folini@gmx.ch | https://www.linkedin.com/in/marcfolini/
+6.9.1988 | Schlieren ZH
+
+marc.folini@gmx.ch
+
+https://www.linkedin.com/in/marcfolini/
 
 
 ## Experience
