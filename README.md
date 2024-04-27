@@ -55,3 +55,6 @@ https://www.linkedin.com/in/marcfolini/
 ## Languages and Passions
 - Swiss-German (native), German (fluent), English (fluent), French (moderate).
 - Interests include hiking, playing the guitar, board games, and various sports activities.
+
+## References
+References will be gladly provided on request.
