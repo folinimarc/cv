@@ -2,6 +2,15 @@
 
 This is a selection of my professional and personal projects from the past few years, predominantly in the field of geographic information systems (GIS). *Disclaimer:* Due to non-disclosure agreements and intellectual property (IP) clauses, I am unable to provide source code and/or detailed insights into most of my past professional work.
 
+
+*Table of Contents*
+- [Certificate of Advanced Studies (CAS) Thesis: GIS Sandbox](#certificate-of-advanced-studies-cas-thesis-gis-sandbox)
+- [GIS Frontend Technology Demo: The 1000 Largest Cities](#gis-frontend-technology-demo-the-1000-largest-cities)
+- [Google Sheets Driven Content Management: Website of Science Slam Schweiz](#google-sheets-driven-content-management-website-of-science-slam-schweiz)
+- [A Global Database of Physical Assets](#a-global-database-of-physical-assets)
+- [Bringing Maps to MSCI's Client-Facing Platform](#bringing-maps-to-mscis-client-facing-platform)
+
+
 ## Certificate of Advanced Studies (CAS) Thesis: GIS Sandbox
 *TL;DR:* A month-long thesis project within the scope of further education in GIS.
 
