@@ -4,9 +4,7 @@
 
 6.9.1988 | Schlieren ZH
 
-marc.folini@gmx.ch
-
-https://www.linkedin.com/in/marcfolini/
+marc.folini@gmx.ch | https://www.linkedin.com/in/marcfolini/
 
 
 ## Experience
