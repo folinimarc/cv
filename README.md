@@ -17,8 +17,9 @@
 
 #### Geospatial Data Engineer | MSCI | 05.2019 - 05.2023
 - Joined early-stage startup CarbonDelta, contributing to its acquisition and integration into MSCI and aiding in shaping processes and products.
-- As the technical lead for MSCI's asset location database, collaborated closely with a dedicated team to provide high-quality fundamental geospatial data for various products. This [presentation at Google Next 2024](https://youtu.be/olGHj3j_hsY?si=5YkPNT95OMSWysdm) builds on this work. Technologies included Django, PostGIS, GDAL, Azure DevOps, Kubernetes, Leaflet.
-- Initiated and led the introduction of interactive maps on MSCI's client-facing platforms. [Announcement pdf](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWOfc8). Technologies included QGIS, QGIS server, Azure DevOps, Kubernetes, PowerBI, Mapproxy, Mapbox GL JS.
+- As the technical lead for MSCI's asset location database, I collaborated closely with a dedicated team to provide high-quality fundamental geospatial data for various products. This [presentation at Google Next 2024](https://youtu.be/olGHj3j_hsY?si=5YkPNT95OMSWysdm) builds on this work. *Technologies: Python Django, PostGIS, GDAL, OGR, Azure Cloud, DevOps, Kubernetes, Leaflet, Databricks, Apache Sedona.*
+- Initiated and led the introduction of interactive maps on MSCI's client-facing platforms. [Product PDF](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWOfc8). *Technologies: QGIS, QGIS server, Azure Cloud, DevOps, Docker, Kubernetes, PowerBI, Mapproxy, Mapbox GL JS.*
+- As technical lead of MSCI's first biodiversity product line, I drove technical discussions with amazing client-facing, research and technology colleagues, which allowed us to transform an idea to market product within weeks instead of months. [Product PDF](https://www.msci.com/documents/1296102/35426413/MSCI%2BBiodiversity-crb-en.pdf). *Technologies: Large scale raster analysis, GDAL, Python Rasterio, Django, Jupyter notebooks,.*
 - Managed up to five junior engineers and supervised the education of an ICT apprentice.
 
 #### Research Assistant | ETH | 09.2016 - 04.2019
