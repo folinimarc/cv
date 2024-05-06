@@ -12,7 +12,7 @@ This is a selection of my professional and personal projects from the past few y
 
 
 ## Certificate of Advanced Studies (CAS) Thesis: GIS Sandbox
-*TL;DR:* A month-long thesis project within the scope of further education in GIS.
+*TL;DR:* Created a user-friendly GIS platform for educational use, leveraging Docker to eliminate setup issues and enhance learning experiences with preinstalled geospatial tools. A month-long thesis project within the scope of further education in GIS.
 
 *Links:* [GitHub](https://github.com/folinimarc/os_gis_sandbox) | [Thesis PDF](https://github.com/folinimarc/os_gis_sandbox/blob/main/thesis/thesis.pdf)
 
