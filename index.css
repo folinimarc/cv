@@ -133,6 +133,16 @@ h1 {
     margin: 0 auto;
     margin-bottom: 0.5cm;
   }
+
+  /* Ensure left panel background is applied when printing */
+  .leftPanel {
+    background-color: #484444 !important;  /* Use !important to override any other conflicting styles */
+  }
+
+  /* Keep the page background color intact for the body */
+  body {
+    background-color: rgb(204,204,204) !important;
+  }
   
   page[size="A4"] {  
     width: 21cm;
