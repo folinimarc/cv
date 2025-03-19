@@ -126,17 +126,25 @@ body {
   margin: 0 auto;
 }
 
-/* Printing */
+/* Printing 
+  
+  The following are needed to avoid that
+  the sidepanel background disappears for print/pdf:
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+*/
 page {
   background: white;
   display: block;
   margin: 0 auto;
   margin-bottom: 0.5cm;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 
 page[size="A4"] {  
   width: 21cm;
-  height: 29.7cm; 
+  height: 29.7cm;
 }
 
 @page {
